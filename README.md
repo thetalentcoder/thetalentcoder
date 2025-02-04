@@ -3,11 +3,7 @@
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
 
 
-<p align="center">
-  <a href="" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Mobile%20Developer;GIS%20Developer;WEB3%20Developer;&font=Pacifico&center=true&width=850&height=120&color=00A3E0&vCenter=true&size=45">
-  </a>
-</p>
+![Header](./header.png)
 
 
 </br>
