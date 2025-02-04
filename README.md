@@ -35,7 +35,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A" alt="React.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" style="margin: 5px; height: 30px;">
-  <img src="https://img.shields.io/badge/Nuxt.js-%2335495E.svg?style=flat-square&logo=nuxt.js&logoColor=%234FC08D" alt="Nuxt.js" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Nuxt.js-%2335495E.svg?style=flat-square&logo=nuxt&logoColor=%234FC08D" alt="Nuxt.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Angular.js-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/TailwindCSS-%23006AFF.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/ShadCN-%23000000.svg?style=flat-square&logo=shadcn&logoColor=white" alt="ShadCN" style="margin: 5px; height: 30px;">
