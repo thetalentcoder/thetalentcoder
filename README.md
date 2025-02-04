@@ -116,7 +116,7 @@ ________________________________________________________
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="skype:live:.cid.91cfa8150ee0720?add">
+  <a href="https://join.skype.com/invite/cid.91cfa8150ee0720?add">
     <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
   </a>
 </p>
