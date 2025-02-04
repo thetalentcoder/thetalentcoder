@@ -16,6 +16,8 @@ ________________________________________________________
 
 </br>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;">:wrench: <strong>Languages & Tools</strong></h1>
     </br></br>
