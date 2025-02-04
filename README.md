@@ -95,3 +95,27 @@ ________________________________________________________
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
 </p>
+
+</br>
+________________________________________________________
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:benjamin.gray.dev@gmail.com">
+    <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/DtqthxBa">
+    <img src="https://img.icons8.com/color/52/000000/discord--v1.png" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/HealerDevOps">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="skype:live:.cid.91cfa8150ee0720?add">
+    <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
+  </a>
+</p>
+
