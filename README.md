@@ -16,7 +16,13 @@ ________________________________________________________
 
 </br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;">:wrench: <strong>Languages & Tools</strong></h1>
