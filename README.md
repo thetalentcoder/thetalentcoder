@@ -112,6 +112,8 @@ ________________________________________________________
 ________________________________________________________
 </br>
 
+<a href="https://u8views.com/github/BenjaminGrayDev"><img src="https://u8views.com/api/v1/github/profiles/191220116/views/day-week-month-total-count.svg"></a>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
