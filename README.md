@@ -13,7 +13,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Python-%233462A6.svg?style=flat-square&logo=Python&logoColor=white" alt="Python" style="margin: 5px; height: 30px;">
-  <img src="https://img.shields.io/badge/Java-%23CC342D.svg?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Java-%23CC342D.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/C-%234285F4.svg?style=flat-square&logo=c&logoColor=white" alt="C" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Solidity-%232E2E2E.svg?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" style="margin: 5px; height: 30px;">
