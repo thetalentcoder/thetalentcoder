@@ -3,7 +3,7 @@
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
 
 
-![Header](./header.png)
+![Header](./profileHeader.png)
 
 
 </br>
@@ -18,6 +18,19 @@ ________________________________________________________
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
 	</picture>
+</p>
+
+</br>
+
+________________________________________________________
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminGrayDev&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
 </p>
 
 </br>
@@ -109,17 +122,6 @@ ________________________________________________________
 ________________________________________________________
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminGrayDev&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
-</p>
-
-</br>
-
-________________________________________________________
 </br>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
