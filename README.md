@@ -122,9 +122,7 @@ ________________________________________________________
 ________________________________________________________
 </br>
 
-<a href="https://u8views.com/github/BenjaminGrayDev"><img src="https://u8views.com/api/v1/github/profiles/191220116/views/day-week-month-total-count.svg"></a>
-
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="center">
   <a href="mailto:benjamin.gray.dev@gmail.com">
