@@ -1,39 +1,39 @@
 [
     {
         "type": "normal",
-        "fileName": "day.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#00000f",
-        "strongColor": "#111133",
-        "weakColor": "gray",
-        "radarColor": "#47a042",
+        "fileName": "day_southern.svg",
+        "backgroundColor": "#ffffcc",  // Slightly warmer for a summer feel
+        "foregroundColor": "#003f33",  // Cooler tone for contrast
+        "strongColor": "#006655",     // Represents lush greenery
+        "weakColor": "#99ccaa",       // Softer green for warmth
+        "radarColor": "#33cc33",      // Bright green to match summer tones
         "growingAnimation": true,
         "contribColors": [
-            "#efefef",
-            "#d8e887",
-            "#8cc569",
-            "#47a042",
-            "#1d6a23"
+            "#ffebcc",  // Light summer shades
+            "#ffd699",
+            "#ffcc66",
+            "#ffaa33",
+            "#ff9933"
         ]
     },
     {
         "type": "rainbow",
-        "fileName": "night.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
-        "weakColor": "#aaaaaa",
-        "radarColor": "rgb(255,200,55)",
+        "fileName": "night_southern.svg",
+        "backgroundColor": "#001a33",  // Cool blue for Southern night sky
+        "foregroundColor": "#ccddff",  // Light blue for a moonlit effect
+        "strongColor": "rgb(200,250,150)",  // Representing summer vibrancy
+        "weakColor": "#8899aa",  // Subdued cool tones
+        "radarColor": "rgb(200,250,150)",  // Matches strongColor
         "growingAnimation": true,
-        "saturation": "50%",
+        "saturation": "60%",  // Slightly more saturated for Southern Hemisphere summer
         "contribLightness": [
-            "20%",
-            "30%",
+            "25%",
             "35%",
             "40%",
-            "50%"
+            "50%",
+            "60%"
         ],
-        "duration": "10s",
-        "hueRatio": -7
+        "duration": "12s",  // Adjusted to reflect a longer summer evening
+        "hueRatio": -5  // Slightly less contrast in hue
     }
 ]
