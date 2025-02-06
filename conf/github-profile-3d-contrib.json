@@ -2,14 +2,14 @@
     {
         "type": "normal",
         "fileName": "day_southern.svg",
-        "backgroundColor": "#ffffcc",  // Slightly warmer for a summer feel
-        "foregroundColor": "#003f33",  // Cooler tone for contrast
-        "strongColor": "#006655",     // Represents lush greenery
-        "weakColor": "#99ccaa",       // Softer green for warmth
-        "radarColor": "#33cc33",      // Bright green to match summer tones
+        "backgroundColor": "#ffffcc",
+        "foregroundColor": "#003f33",
+        "strongColor": "#006655",
+        "weakColor": "#99ccaa",
+        "radarColor": "#33cc33",
         "growingAnimation": true,
         "contribColors": [
-            "#ffebcc",  // Light summer shades
+            "#ffebcc",
             "#ffd699",
             "#ffcc66",
             "#ffaa33",
@@ -19,13 +19,13 @@
     {
         "type": "rainbow",
         "fileName": "night_southern.svg",
-        "backgroundColor": "#001a33",  // Cool blue for Southern night sky
-        "foregroundColor": "#ccddff",  // Light blue for a moonlit effect
-        "strongColor": "rgb(200,250,150)",  // Representing summer vibrancy
-        "weakColor": "#8899aa",  // Subdued cool tones
-        "radarColor": "rgb(200,250,150)",  // Matches strongColor
+        "backgroundColor": "#001a33",
+        "foregroundColor": "#ccddff",
+        "strongColor": "rgb(200,250,150)",
+        "weakColor": "#8899aa",
+        "radarColor": "rgb(200,250,150)",
         "growingAnimation": true,
-        "saturation": "60%",  // Slightly more saturated for Southern Hemisphere summer
+        "saturation": "60%",
         "contribLightness": [
             "25%",
             "35%",
@@ -33,7 +33,7 @@
             "50%",
             "60%"
         ],
-        "duration": "12s",  // Adjusted to reflect a longer summer evening
-        "hueRatio": -5  // Slightly less contrast in hue
+        "duration": "12s",
+        "hueRatio": -5
     }
 ]
