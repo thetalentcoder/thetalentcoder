@@ -12,13 +12,14 @@ ________________________________________________________
 
 </br>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day.svg" />
-	</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/night_southern.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day_southern.svg">
+    <img alt="GitHub Profile Contributions Chart" src="https://raw.githubusercontent.com/BenjaminGrayDev/BenjaminGrayDev/output-3d-contrib/day_southern.svg">
+  </picture>
 </p>
+
 
 </br>
 
