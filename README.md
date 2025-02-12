@@ -51,7 +51,7 @@ ________________________________________________________
 </br>
 
 <div align="center" style="margin: 20px 0;">
-  <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;">:wrench: <strong>Languages & Tools</strong></h1>
+  <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
     </br></br>
 
    <h2>Programming Language</h2>
