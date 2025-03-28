@@ -126,7 +126,6 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" style="margin: 5px; height: 30px;">
 </div>
-
 </br>
 
 
