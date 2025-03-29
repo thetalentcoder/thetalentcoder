@@ -26,6 +26,15 @@ ________________________________________________________
 ________________________________________________________
 
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BenjaminGrayDev&show-other-skills=true" width="auto"></img>
+
+
+
+</br>
+
+________________________________________________________
+
+
 <p align="center">
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
@@ -65,6 +74,17 @@ ________________________________________________________
 ________________________________________________________
 
 </br>
+
+
+## Thanks for visiting
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/BenjaminGrayDev/count.svg">
+
+Counting of visitors to this page in this section started from May 1, 2022
+
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
