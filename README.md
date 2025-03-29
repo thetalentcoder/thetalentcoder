@@ -88,7 +88,9 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
-    </br></br>
+
+  <img width="100%" src="./images/line.gif">
+
 
    <h2>Programming Language</h2>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px; height: 30px;">
