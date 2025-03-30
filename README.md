@@ -23,11 +23,11 @@ ________________________________________________________
 
 <p align="center">
   <img height="150" width="150" src="./images/WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminGrayDev&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminGrayDev&theme=tokyonight-light&hide_border=true"/>
   <img height="150" width="150" src="./images/WEBP/right.webp"/>
 </p>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=minimal&hide_border=true&area=true)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=tokyonight-light&hide_border=true&area=true)
 
 
 </br>
