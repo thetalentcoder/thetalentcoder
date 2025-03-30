@@ -27,6 +27,9 @@ ________________________________________________________
   <img height="150" width="150" src="./images/WEBP/right.webp"/>
 </p>
 
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=minimal&hide_border=true&area=true)
+
+
 </br>
 
 ________________________________________________________
@@ -67,6 +70,12 @@ ________________________________________________________
   <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
 </p>
 
+
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@BenjaminGrayDev/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@BenjaminGrayDev/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</p>
+
 </br>
 
 ________________________________________________________
@@ -74,22 +83,25 @@ ________________________________________________________
 </br>
 
 
+<p align="center">
 ## Thanks for visiting
+</p>
+
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BenjaminGrayDev/count.svg">
 
-Counting of visitors to this page in this section started from May 1, 2022
+<p align="center">
+  Counting of visitors to this page in this section started from April 1, 2025
+</p>
 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
+<p align="center">
+<a href="https://info.flagcounter.com/yyZI"><img src="https://s01.flagcounter.com/map/yyZI/size_l/txt_000000/border_1D10CC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</p>
 
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
-
-  <img width="100%" src="./images/line.gif">
 
 
    <h2>Programming Language</h2>
@@ -171,8 +183,41 @@ ________________________________________________________
 
 
 </br>
+<p align="center">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
+  Connect With Me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
+</p>
 
-<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+  <img width="100%" src="./images/line.gif">
+
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
+  
 
 <p align="center">
   <a href="mailto:benjamin.gray.dev@gmail.com">
@@ -192,3 +237,4 @@ ________________________________________________________
   </a>
 </p>
 
+![footer](./images/WEBP/footer.webp)
