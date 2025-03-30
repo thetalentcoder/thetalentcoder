@@ -27,7 +27,7 @@ ________________________________________________________
   <img height="150" width="150" src="./images/WEBP/right.webp"/>
 </p>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=tokyonight-light&hide_border=true&area=true)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=minimal​&hide_border=true&area=true)
 
 
 </br>
