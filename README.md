@@ -51,6 +51,10 @@ ________________________________________________________
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
+________________________________________________________
+
+</br>
+
 
 <table align="center">
   <tr>
@@ -84,21 +88,25 @@ ________________________________________________________
 
 
 <p align="center">
-## Thanks for visiting
-</p>
+Thanks for visiting
 
+</p>
+  <img width="100%" src="./images/line.gif">
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BenjaminGrayDev/count.svg">
 
 <p align="center">
-  Counting of visitors to this page in this section started from April 1, 2025
+Tracking of visitors to this page commenced on April 1, 2025.
 </p>
 
 <p align="center">
   <a href="https://info.flagcounter.com/KBKi"><img src="https://s01.flagcounter.com/map/KBKi/size_l/txt_DB2B0F/border_2200CC/pageviews_0/viewers_I+am+a+Full+Stack+Developer./flags_0/" alt="Flag Counter" border="0"></a>
 </p>
 
+________________________________________________________
+
+</br>
 
 <div align="center" style="margin: 20px 0;">
   <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;"><strong>My Skills</strong></h1>
