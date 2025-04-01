@@ -85,12 +85,15 @@ ________________________________________________________
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Backend<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/PayloadCMS-%23FF4500.svg?style=flat-square&logo=payloadcms&logoColor=white" alt="PayloadCMS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Wordpress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/JavaSpring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="JavaSpring" style="margin: 5px; height: 30px;">
 
   </br></br>
