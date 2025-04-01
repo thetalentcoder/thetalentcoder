@@ -60,54 +60,9 @@ ________________________________________________________
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
-________________________________________________________
 
 </br>
 
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BenjaminGrayDev&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=21&t={{timestamp}}" />
-    </td>
-    <td>
-      <a href="https://github.com/BenjaminGrayDev/SEO-Backlink_mentoring/commits">
-        <img src="https://images.repography.com/60549623/BenjaminGrayDev/SEO-Backlink_mentoring/recent-activity/l8BiIOO9WTV6gMGoj6pVii40gxwLankfoH8aTKzlcDk/ryzbBkQ-HxnMlXwFtWDc1hf_ULhTkBZ7fGx5hochFI0_map.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-</br>
-
-________________________________________________________
-
-</br>
-
-
-<p align="center">
-  <strong>Thanks for visiting</strong>
-  <br>
-  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
-
-
-
-  <img width="100%" src="./images/line.gif">
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/BenjaminGrayDev/count.svg">
-
-<p align="center">
-Tracking of visitors to this page commenced on April 1, 2025.
-</p>
-
-<p align="center">
-  <a href="https://info.flagcounter.com/KBKi"><img src="https://s01.flagcounter.com/map/KBKi/size_l/txt_DB2B0F/border_2200CC/pageviews_0/viewers_I+am+a+Full+Stack+Developer./flags_0/" alt="Flag Counter" border="0"></a>
-</p>
 
 ________________________________________________________
 
@@ -195,16 +150,6 @@ ________________________________________________________
 ________________________________________________________
 
 
-</br>
-<p align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
-  Connect With Me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
-</p>
-
-  <img width="100%" src="./images/line.gif">
-
-
 <h4 align="center">
   
 ```diff
@@ -230,8 +175,18 @@ ________________________________________________________
 ```
 
 </h4>  
-  
 
+
+</br>
+<p align="center">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
+  Connect With Me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
+</p>
+
+  <img width="100%" src="./images/line.gif">
+
+  
 <p align="center">
   <a href="mailto:benjamin.gray.dev@gmail.com">
     <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
@@ -248,6 +203,33 @@ ________________________________________________________
   <a href="https://join.skype.com/invite/cid.91cfa8150ee0720">
     <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
   </a>
+</p>
+
+
+
+  
+
+
+
+<p align="center">
+  <strong>Thanks for visiting</strong>
+  <br>
+  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+
+
+
+  <img width="100%" src="./images/line.gif">
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/BenjaminGrayDev/count.svg">
+
+<p align="center">
+Tracking of visitors to this page commenced on April 1, 2025.
+</p>
+
+<p align="center">
+  <a href="https://info.flagcounter.com/KBKi"><img src="https://s01.flagcounter.com/map/KBKi/size_l/txt_DB2B0F/border_2200CC/pageviews_0/viewers_I+am+a+Full+Stack+Developer./flags_0/" alt="Flag Counter" border="0"></a>
 </p>
 
 ![footer](./images/WEBP/footer.webp)
