@@ -29,7 +29,14 @@ ________________________________________________________
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=minimal​&hide_border=true&area=true)
 
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/ea1b5280-a00a-4f63-a9fe-70b09edfc2d8.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/589a9ac2-59ce-4a7d-abb5-6c5309494fd9.svg" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
+</p>
 
 
 </br>
@@ -61,7 +68,7 @@ ________________________________________________________
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BenjaminGrayDev&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=21" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BenjaminGrayDev&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=21&t={{timestamp}}" />
     </td>
     <td>
       <a href="https://github.com/BenjaminGrayDev/SEO-Backlink_mentoring/commits">
@@ -72,15 +79,7 @@ ________________________________________________________
 </table>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenjaminGrayDev&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
-</p>
 
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/ea1b5280-a00a-4f63-a9fe-70b09edfc2d8.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/589a9ac2-59ce-4a7d-abb5-6c5309494fd9.svg" />
-</p>
 
 </br>
 
