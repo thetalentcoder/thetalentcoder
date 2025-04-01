@@ -30,6 +30,8 @@ ________________________________________________________
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=BenjaminGrayDev&theme=minimal​&hide_border=true&area=true)
 
 
+
+
 </br>
 
 ________________________________________________________
@@ -76,8 +78,8 @@ ________________________________________________________
 
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@BenjaminGrayDev/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@BenjaminGrayDev/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/ea1b5280-a00a-4f63-a9fe-70b09edfc2d8.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@e9e4941d-19e8-4af6-809f-3bab169dbf0c/589a9ac2-59ce-4a7d-abb5-6c5309494fd9.svg" />
 </p>
 
 </br>
