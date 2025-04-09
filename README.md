@@ -3,7 +3,7 @@
 <!-- [![thetalentcoder Nuxter profile](https://nuxters.nuxt.com/card/thetalentcoder/og.png)](https://nuxters.nuxt.com/thetalentcoder) -->
 
 
-![Header](./profileHeader.png)
+<!--![Header] (./profileHeader.png) -->
 
 
 </br>
