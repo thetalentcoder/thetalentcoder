@@ -5,13 +5,6 @@
 
 <!--![Header] (./profileHeader.png) -->
 
-
-</br>
-
-________________________________________________________
-
-</br>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetalentcoder/thetalentcoder/output-3d-contrib/night_southern.svg">
