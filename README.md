@@ -35,7 +35,7 @@ ________________________________________________________
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thetalentcoder&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thetalentcoder&theme=flat&margin-w=18&margin-h=18&column=5&border_radius=15" />
 </p>
 
 
