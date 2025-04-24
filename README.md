@@ -174,6 +174,25 @@ ________________________________________________________
 
 
 </br>
+
+
+
+<p align="center">
+  <strong>Thanks for visiting</strong>
+  <br>
+  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+
+<img width="100%" src="./images/line.gif">
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/thetalentcoder/count.svg">
+
+<p align="center">
+Tracking of visitors to this page commenced on April 1, 2025.
+</p>
+
+
 <p align="center">
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" style="vertical-align: middle;" />
   Connect With Me
@@ -199,33 +218,6 @@ ________________________________________________________
   <a href="https://join.skype.com/invite/cid.91cfa8150ee0720">
     <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
   </a>
-</p>
-
-
-
-  
-
-
-
-<p align="center">
-  <strong>Thanks for visiting</strong>
-  <br>
-  <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
-
-
-
-  <img width="100%" src="./images/line.gif">
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/thetalentcoder/count.svg">
-
-<p align="center">
-Tracking of visitors to this page commenced on April 1, 2025.
-</p>
-
-<p align="center">
-  <a href="https://info.flagcounter.com/KBKi"><img src="https://s01.flagcounter.com/map/KBKi/size_l/txt_DB2B0F/border_2200CC/pageviews_0/viewers_I+am+a+Full+Stack+Developer./flags_0/" alt="Flag Counter" border="0"></a>
 </p>
 
 ![footer](./images/WEBP/footer.webp)
