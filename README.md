@@ -88,6 +88,12 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/JavaSpring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="JavaSpring" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" style="margin: 5px; height: 30px;">
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" style="margin: 5px; height: 30px;">
+<img src="https://img.shields.io/badge/Symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" style="margin: 5px; height: 30px;">
+<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="margin: 5px; height: 30px;">
+<img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="margin: 5px; height: 30px;">
+
 
   </br></br>
   <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Frontend<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
@@ -139,6 +145,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/SpatialLite-%234285F4.svg?style=flat-square&logo=spatialite&logoColor=white" alt="SpatialLite" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/DynamoDB-%230073B3.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" style="margin: 5px; height: 30px;">
+
 </div>
 </br>
 
